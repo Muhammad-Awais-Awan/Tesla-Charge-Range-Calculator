@@ -1,6 +1,6 @@
 import React from "react";
 import PropTypes from "react";
-import { label } from "react";
+
 import "./TeslaClimate.css";
 const TeslaClimate = (props) => (
   <div className="tesla-climate">
